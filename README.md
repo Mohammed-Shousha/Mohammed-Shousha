@@ -72,5 +72,5 @@ _**Tools**_
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-shousha&layout=compact&lang_count=6&hide=c,cmake,c%2B%2B,jupyter%20notebook&exclude_repo=finding-donors-project&theme=gotham" />
 </a>
 <a href="">
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=Mohammed-Shousha&theme=gotham" />
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=Mohammed-Shousha&theme=gotham&card_width=450" />
 </a>
